@@ -16,4 +16,4 @@ Python 3.10.5
 then run..⋅⋅
 
 ##### Reference(s): ##### 
-[How to connect Python + Google Sheets](https://www.youtube.com/watch?v=HXDD7-EnGBY)
+[How to connect Python + Google Sheets]([https://www.youtube.com/watch?v=HXDD7-EnGBY](https://www.youtube.com/watch?v=HXDD7-EnGBY))
