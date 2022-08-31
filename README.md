@@ -13,7 +13,8 @@ Python 3.10.5
 3. install package(s)
  
    
-then run..⋅⋅
+#### To run..⋅⋅
+ type __python mainMouse.py__ in terminal
 
 ##### Reference(s): ##### 
 [Object Detection OpenCV Python](https://www.youtube.com/watch?v=HXDD7-EnGBY)
