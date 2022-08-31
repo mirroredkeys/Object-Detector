@@ -14,7 +14,7 @@ Python 3.10.5
  
    
 #### To run..⋅⋅
- type __python mainMouse.py__ in terminal
+ type __python object_detect.py__ in terminal
 
 ##### Reference(s): ##### 
 [Object Detection OpenCV Python](https://www.youtube.com/watch?v=HXDD7-EnGBY)
